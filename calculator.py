@@ -138,4 +138,5 @@ for col in range(4):
 for row in range(5):
     app.grid_rowconfigure(row, weight=1) 
 
+
 app.mainloop()
